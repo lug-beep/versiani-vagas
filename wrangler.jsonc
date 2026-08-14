@@ -1,10 +1,15 @@
 {
   "name": "versiani-vagas",
+  "main": "worker.js",
   "compatibility_date": "2026-08-01",
   "assets": {
     "directory": ".",
     "html_handling": "auto-trailing-slash"
   },
+  "vars": {
+    "SHEET_ID": "1Ohn3Xb6HfPViOKaPPk_N89EdPQgEMr03s5cPmUizDLI"
+  },
+  "observability": { "enabled": true },
   "routes": [
     { "pattern": "vagas.versianiswim.com.br", "custom_domain": true }
   ]

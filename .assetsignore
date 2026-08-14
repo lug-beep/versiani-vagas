@@ -6,3 +6,4 @@ CNAME
 README.md
 wrangler.jsonc
 .wrangler
+worker.js
