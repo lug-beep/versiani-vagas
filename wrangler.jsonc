@@ -1,0 +1,11 @@
+{
+  "name": "versiani-vagas",
+  "compatibility_date": "2026-08-01",
+  "assets": {
+    "directory": ".",
+    "html_handling": "auto-trailing-slash"
+  },
+  "routes": [
+    { "pattern": "vagas.versianiswim.com.br", "custom_domain": true }
+  ]
+}
